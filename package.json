@@ -1,0 +1,12 @@
+{
+  "name": "force-strict-loader",
+  "version": "1.0.0",
+  "description": "自定义loader，为每个JS文件启用严格模式，在每个JS文件头部添加'use strict'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
